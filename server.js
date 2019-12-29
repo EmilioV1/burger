@@ -12,6 +12,9 @@ app.use(methodOverride("_method"));
 app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
+var routes = require("./controllers/routes");
+app.use("/", routes);
+
 var port = 3000;
 app.listen(port);
 console.log("server listening on port 3000");
