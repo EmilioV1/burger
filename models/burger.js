@@ -10,6 +10,6 @@ var burger = {
     update: function (id, cb) {
         orm.update("burgers", id, cb);
     }
-}
+};
 
 module.exports = burger;
