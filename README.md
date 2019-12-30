@@ -1,4 +1,4 @@
-# Friend Finder
+# Burger
 
 The user can create their own burger and devour it while keeping track of what burgers they have devoured. Click [here](https://super-burger-feast.herokuapp.com/) to try it.
 
