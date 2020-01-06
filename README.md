@@ -23,4 +23,4 @@ The app stores each burger in a SQL database with a unique id and displays it. E
 ![burger](Insert Screenshot)
 
 ## Author
-[Emilio Valladares](https://github.com/nolimits1/)
+[Emilio Valladares](https://github.com/emiliov1/)
