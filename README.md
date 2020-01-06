@@ -20,7 +20,7 @@ The user can create their own burger and devour it while keeping track of what b
 The app stores each burger in a SQL database with a unique id and displays it. Each time a button is pressed the database is updated and new results are displayed.
 
 ### App View
-![burger](Insert Screenshot)
+![burger](https://user-images.githubusercontent.com/33468221/71788252-65c26680-2fd5-11ea-8b8d-47a5d99787fe.PNG)
 
 ## Author
 [Emilio Valladares](https://github.com/emiliov1/)
